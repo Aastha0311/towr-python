@@ -32,7 +32,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 #include <memory>
 #include <Eigen/Sparse>
-
+#include <cassert>
 #include "spline.h"
 #include "nodes_observer.h"
 

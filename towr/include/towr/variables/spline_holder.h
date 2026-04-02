@@ -32,6 +32,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 #include "phase_durations.h"
 #include "node_spline.h"
+#include <cassert>
 #include "nodes_variables.h"
 #include "nodes_variables_phase_based.h"
 

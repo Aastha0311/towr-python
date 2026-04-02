@@ -31,7 +31,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #define TOWR_VARIABLES_CONTACT_SCHEDULE_H_
 
 #include <ifopt/variable_set.h>
-
+#include <cassert>
 #include "phase_durations_observer.h"
 
 namespace towr {

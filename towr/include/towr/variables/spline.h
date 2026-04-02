@@ -31,7 +31,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #define TOWR_VARIABLES_SPLINE_H_
 
 #include <vector>
-
+#include <cassert>
 #include "polynomial.h"
 
 namespace towr {
